@@ -12,10 +12,10 @@
 
 I'm a passionate developer from India with expertise in AI/ML and web development. I love working on data-driven projects and building solutions that make an impact.
 
-- 🔭 Currently working on **[F1 Analysis Project](https://github.com/code-with-aneesh/F1_Analysis)**
+- 🔭 Currently working on **[Gemini-Rust-CLI Tool](https://github.com/code-with-aneesh/gemini-cli-rust)**
 - 🌱 Learning **Advanced ML techniques, Cloud Architecture**
 - 👯 Looking to collaborate on **Open Source AI projects**
-- 💬 Ask me about **Python, Svelte, or Formula 1!**
+- 💬 Ask me about **Python, Svelte, Linux or Formula 1!**
 - ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes
 
 ## 🛠 Tech Stack
@@ -29,7 +29,8 @@ I'm a passionate developer from India with expertise in AI/ML and web developmen
 ### Frameworks & Libraries
 ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 ### Data Science & AI/ML
@@ -43,6 +44,15 @@ I'm a passionate developer from India with expertise in AI/ML and web developmen
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+
+### Linux & Tools
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Fedora](https://img.shields.io/badge/-Fedora-294172?style=flat&logo=fedora&logoColor=white)
+![Zsh](https://img.shields.io/badge/-Zsh-F15A24?style=flat&logo=gnu-bash&logoColor=white)
+![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat&logo=neovim&logoColor=white)
+![Systemd](https://img.shields.io/badge/-Systemd-222222?style=flat&logo=linux&logoColor=white)
+
 
 ## 📈 GitHub Stats
 
@@ -78,9 +88,11 @@ I'm a passionate developer from India with expertise in AI/ML and web developmen
 
 ## 🎯 Featured Projects
 
-1. **[F1 Analysis](https://github.com/code-with-aneesh/F1_Analysis)** - Comprehensive data analysis and visualization of Formula 1 racing statistics
-2. **[IPL Analysis](https://github.com/code-with-aneesh/ipl_analysis)** - Indian Premier League cricket data analysis with predictive modeling
-3. **[WT Management](https://github.com/code-with-aneesh/wt-management)** - Weight tracking and Health management application
+1. **[WT Management](https://github.com/code-with-aneesh/wt-management)** - Weight tracking and Health management application
+2. **[gemini-cli-rust](https://github.com/code-with-aneesh/gemini-cli-rust)** - A Rust-based CLI tool leveraging Google’s Gemini AI
+3. **[F1 Analysis](https://github.com/code-with-aneesh/F1_Analysis)** - Comprehensive data analysis and visualization of Formula 1 racing statistics
+4. **[IPL Analysis](https://github.com/code-with-aneesh/ipl_analysis)** - Indian Premier League cricket data analysis with predictive modeling
+
 
 <div align="center">
   
