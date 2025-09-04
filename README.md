@@ -4,7 +4,7 @@
 <div align="center">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=code-with-aneesh&label=Profile%20views&color=0e75b6&style=flat)
-  ![Twitter Follow](https://img.shields.io/twitter/follow/syntax_sensei24?style=social)
+  ![Twitter Follow](https://img.shields.io/twitter/follow/omega_codes?style=social)
   
 </div>
 
